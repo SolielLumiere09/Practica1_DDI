@@ -10,7 +10,7 @@ public class CubeScript : MonoBehaviour
     {
         int i;
         int[] list;
-        list = listOfMinsEach(new int[5]{8,1,2,2,3});
+        list = listOfMinsEach(new int[6]{0,1,5,2,3, 4});
 
         for(i = 0; i < list.Length; i++)
         {
