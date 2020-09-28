@@ -10,7 +10,7 @@ public class CubeScript : MonoBehaviour
     {
         int i;
         int[] list;
-        list = listOfMinsEach(new int[6]{0,1,5,2,3, 4});
+        list = listOfMinsEach(new int[5]{8,1,2,2,3});
 
         for(i = 0; i < list.Length; i++)
         {
@@ -29,26 +29,30 @@ public class CubeScript : MonoBehaviour
 
     int[] listOfMinsEach(int [] list)
     {
-        int[] auxList = new int[list.Length];
-        int count = 0;
-        int i, j;
+        //complejidad
+        int[] auxList = new int[list.Length]; //3
+        int count = 0; //1
+        int i, j; //0
 
-        for(i = 0; i < list.Length; i++)
+        for(i = 0; i < list.Length; i++)// 1; N+1; N
         {
             
-            for(j = 0; j < list.Length; j++)
+            for(j = 0; j < list.Length; j++)//N; N^2 + N; N^2
             {
-                if(list[j] < list[i])
-                    count++;
+                if(list[j] < list[i]) //3*N^2
+                    count++;//2 * N^2
 
             }
 
-            auxList[i] = count;
-            count = 0;
+            auxList[i] = count; //2N
+            count = 0;//N
 
         }
         
 
-        return auxList;
+        return auxList;//1
+
+        //complejidad
+        //O(n) = 7N^2 + 7N + 7
     }
 }
