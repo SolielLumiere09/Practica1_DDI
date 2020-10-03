@@ -1,1 +1,1 @@
-# Practica1_DDI
+# Practicas de laboratorio de DDI
