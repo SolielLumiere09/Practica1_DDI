@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Interactable : MonoBehaviour
+public partial class Interactable : MonoBehaviour
 {
     //temp
   

@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: eabba813380949c4f9c61377ca62d48a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5756844528595060622
+    second: Jewels_0
+  - first:
+      213: 2999736416413928894
+    second: Jewels_1
+  - first:
+      213: -6677934509729274232
+    second: Jewels_2
+  - first:
+      213: 2405257199269539903
+    second: Jewels_3
+  - first:
+      213: -1183344929310640713
+    second: Jewels_4
+  - first:
+      213: 7439977107422898732
+    second: Jewels_5
+  - first:
+      213: 4427756785087015285
+    second: Jewels_6
+  - first:
+      213: 4128120264273638278
+    second: Jewels_7
+  - first:
+      213: -4506461947669040236
+    second: Jewels_8
+  - first:
+      213: 5818490722158304333
+    second: Jewels_9
+  - first:
+      213: -5192189064418763094
+    second: Jewels_10
+  - first:
+      213: -7741760048367497700
+    second: Jewels_11
+  - first:
+      213: 295635025434279917
+    second: Jewels_12
+  - first:
+      213: -1277736297596157412
+    second: Jewels_13
+  - first:
+      213: 7976878976372694491
+    second: Jewels_14
+  - first:
+      213: 6376837324243269745
+    second: Jewels_15
+  - first:
+      213: 198175033970989786
+    second: Jewels_16
+  - first:
+      213: -6108068948088029095
+    second: Jewels_17
+  - first:
+      213: -6840744957789178930
+    second: Jewels_18
+  - first:
+      213: -2301362827005354382
+    second: Jewels_19
+  - first:
+      213: 196075026770956493
+    second: Jewels_20
+  - first:
+      213: -8727491507297951089
+    second: Jewels_21
+  - first:
+      213: 6163291872626259926
+    second: Jewels_22
+  - first:
+      213: 7933526586428568930
+    second: Jewels_23
+  - first:
+      213: 2596588930419795133
+    second: Jewels_24
+  - first:
+      213: 2278946438646193309
+    second: Jewels_25
+  - first:
+      213: 2347432261694882489
+    second: Jewels_26
+  - first:
+      213: -8264378639978273523
+    second: Jewels_27
+  - first:
+      213: -54650294478174542
+    second: Jewels_28
+  - first:
+      213: 8879390776676309913
+    second: Jewels_29
+  - first:
+      213: 2530988563930971130
+    second: Jewels_30
+  - first:
+      213: -5734724522349556347
+    second: Jewels_31
+  - first:
+      213: -2022629817720694165
+    second: Jewels_32
+  - first:
+      213: 398102386338684306
+    second: Jewels_33
+  - first:
+      213: 1473979291266756871
+    second: Jewels_34
+  - first:
+      213: 819999981292876685
+    second: Jewels_35
+  - first:
+      213: 3390571896198741664
+    second: Jewels_36
+  - first:
+      213: -5234621762713587889
+    second: Jewels_37
+  - first:
+      213: 4690018413572161631
+    second: Jewels_38
+  - first:
+      213: -3742899275312033155
+    second: Jewels_39
+  - first:
+      213: -6462438164002940027
+    second: Jewels_40
+  - first:
+      213: 3200365127519946731
+    second: Jewels_41
+  - first:
+      213: 8551456824799409669
+    second: Jewels_42
+  - first:
+      213: -4902255611635531825
+    second: Jewels_43
+  - first:
+      213: -5837872571178754848
+    second: Jewels_44
+  - first:
+      213: 7654651906715433413
+    second: Jewels_45
+  - first:
+      213: -7988651990251320310
+    second: Jewels_46
+  - first:
+      213: 816665389072496961
+    second: Jewels_47
+  - first:
+      213: 5050893003323406377
+    second: Jewels_48
+  - first:
+      213: -1481346005521698013
+    second: Jewels_49
+  - first:
+      213: 4525458351560687999
+    second: Jewels_50
+  - first:
+      213: 6614446639235356737
+    second: Jewels_51
+  - first:
+      213: -9086570577485808588
+    second: Jewels_52
+  - first:
+      213: 486929800901337294
+    second: Jewels_53
+  - first:
+      213: 7636413468923523100
+    second: Jewels_54
+  - first:
+      213: -2769017905724303545
+    second: Jewels_55
+  - first:
+      213: -5332170950466925302
+    second: Jewels_56
+  - first:
+      213: -7103205427902008368
+    second: Jewels_57
+  - first:
+      213: 6846311367539868604
+    second: Jewels_58
+  - first:
+      213: -7214623125540086290
+    second: Jewels_59
+  - first:
+      213: -7527445634433079318
+    second: Jewels_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jewels_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278b0fdf6649b10b0800000000000000
+      internalID: -5756844528595060622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 325
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdc720a06431a920800000000000000
+      internalID: 2999736416413928894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 324
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a342d1f53353a0800000000000000
+      internalID: -6677934509729274232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 324
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3079ebdda0316120800000000000000
+      internalID: 2405257199269539903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 320
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5fda17e0ae39fe0800000000000000
+      internalID: -1183344929310640713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 321
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aeaf0b2cb104760800000000000000
+      internalID: 7439977107422898732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 327
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579efe6365d827d30800000000000000
+      internalID: 4427756785087015285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 321
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833f1632870a4930800000000000000
+      internalID: 4128120264273638278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 320
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4933f5f1cb4d571c0800000000000000
+      internalID: -4506461947669040236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 320
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cd62feb7e6fb050800000000000000
+      internalID: 5818490722158304333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 246
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed6a82e83a1f7b0800000000000000
+      internalID: -5192189064418763094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 19
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e8ebce04ebf8490800000000000000
+      internalID: -7741760048367497700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 171
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def7c224d7e4a1400800000000000000
+      internalID: 295635025434279917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jewels_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 89
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1288296b91944ee0800000000000000
+      internalID: -1277736297596157412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 48d31a9e8f4e26b4ea1235d76a3e0301
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
