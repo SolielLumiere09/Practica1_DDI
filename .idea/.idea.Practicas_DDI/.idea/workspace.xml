@@ -20,11 +20,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb450d5c-a869-4d59-ad49-a269c178f8cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Practica_3/Scripts/Interactable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Practica_3/Scripts/Interactable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/cemetery halloween set/Demo/sample_scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/cemetery halloween set/Demo/sample_scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/cemetery halloween set/Prefab/sample_scene.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/cemetery halloween set/Prefab/sample_scene.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practicas_DDI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practicas_DDI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Practicas_DDI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Practicas_DDI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AcquireChan/Scripts/AcquireChanController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AcquireChan/Scripts/AcquireChanController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/HUDbase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/HUDbase.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Jewels.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Jewels.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Main-Game-GUI-Preview-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Main-Game-GUI-Preview-2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Main-Game-GUI-PreviewFILLED.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Main-Game-GUI-PreviewFILLED.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Menu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/Menu_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/StarJewels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/StarJewels.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/scrollbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Images/scrollbar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Practica_4.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Practica_4.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scenarios.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scenarios/Scenario1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scenarios/Scenario1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scenarios/Scenario2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scenarios/Scenario2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Interactable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Interactable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/InteractableObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/InteractableObjects/CrossTomb.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/InteractableObjects/CrossTomb.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/InteractableObjects/Grave.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/InteractableObjects/Grave.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Inventory.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Inventory/InventorySlotController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Inventory/InventorySlotController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Inventory/InventoryStatus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Inventory/InventoryStatus.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Inventory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Inventory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Item.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Item.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/4SideDiamond.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/4SideDiamond.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/Cubie.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/Cubie.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/Diamond.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/Diamond.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/Emerald.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/Emerald.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/SphereGem.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/SphereGem.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/RecolectItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/RecolectItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/Default.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/Default.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/Slot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/Slot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/UsableItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/UsableItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +99,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/RecolectItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +126,23 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/DiamondUsable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Jewels/UsableItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Pratcica_4/Scripts/Pickups/Slots/UsableItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/InteractableObjects/Grave.cs" />
+        <option value="$PROJECT_DIR$/Assets/AcquireChan/Scripts/SimpleFollowCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Camera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_4/Scripts/InteractableObjects/CrossTomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Pickups/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Inventory/InventoryStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Inventory/InventorySlotController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Pickups/RecolectItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/InteractableObjects/CrossTomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Pickups/Slots/UsableItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_5/Scripts/Pickups/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_4/Scripts/Pickups/RecolectItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/AcquireChan/Scripts/AcquireChanController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Practica_4/Scripts/Inventory/InventoryStatus.cs" />
       </list>
     </option>
   </component>
@@ -116,6 +194,7 @@
       <workItem from="1604182269567" duration="641000" />
       <workItem from="1604377430077" duration="2924000" />
       <workItem from="1604433762966" duration="4102000" />
+      <workItem from="1604952542770" duration="12200000" />
     </task>
     <servers />
   </component>

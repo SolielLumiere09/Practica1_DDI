@@ -1,7 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
+﻿using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 
 /*!
@@ -76,15 +74,15 @@ public class AcquireChanController : MonoBehaviour
 		Vector3 vel = m_RigidBody.velocity;
 		float h, v;
 
-		h = Input.GetAxis( "Horizontal" );
-		v = Input.GetAxis( "Vertical" );
+		h = CrossPlatformInputManager.GetAxis( "Horizontal" );
+		v = CrossPlatformInputManager.GetAxis( "Vertical" );
 		
 		
 
 		bool isMove = ((0 != h) || (0 != v));
 
 		m_MoveTime = isMove? (m_MoveTime + Time.deltaTime) : 0;
-		bool isRun = (m_RunningStart <= m_MoveTime) && Input.GetKey(KeyCode.Q);
+		bool isRun = (m_RunningStart <= m_MoveTime) && (Input.GetKey(KeyCode.Q) || CrossPlatformInputManager.GetButton("Run"));
 
 		// move speed (walk / run)
 		float moveSpeed = isRun? m_RunSpeed : m_WalkSpeed;
@@ -119,7 +117,7 @@ public class AcquireChanController : MonoBehaviour
 
 
 		// jump
-		if( Input.GetButtonDown( "Jump" ) && m_IsGround		)
+		if( CrossPlatformInputManager.GetButtonDown( "Jump" ) && m_IsGround		)
 		{
 			m_Animator.Play( "jump" );
 			m_RigidBody.AddForce( Vector3.up * m_JumpForce );
